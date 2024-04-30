@@ -34,6 +34,3 @@ The game is compatible with modern web browsers that support HTML5 and CSS3.
 
 You can play the game live [here](https://shreyasaini003.github.io/DuckHuntingGame/).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
