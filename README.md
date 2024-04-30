@@ -30,6 +30,10 @@ The game includes a shooting sound effect (`shoots.mp3`) to enhance the player's
 
 The game is compatible with modern web browsers that support HTML5 and CSS3.
 
+## Live Demo
 
+You can play the game live [here](https://shreyasaini003.github.io/DuckHuntingGame/).
 
-.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
