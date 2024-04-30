@@ -24,7 +24,7 @@ Duck Hunting Game is a simple browser-based game where players shoot ducks flyin
 
 ## Preview
 
-![Duck Hunting Game Preview](https://shreyasaini003.github.io/DuckHuntingGame/)
+![image](https://github.com/shreyasaini003/DuckHuntingGame/assets/103727732/88beac4a-f5bd-40b0-99de-e0d72ac9cdad)
 
 ## Sound Effects
 
